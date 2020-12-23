@@ -11,7 +11,7 @@ pin: true
 ---
 
 
-## Installation
+Installation
 
 [Fork **Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork) on GitHub, rename the repository to `USERNAME.github.io` (where `USERNAME` is your GitHub username), and then open terminal and clone the fork to local by:
 
